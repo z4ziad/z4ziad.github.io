@@ -21,7 +21,7 @@ author: Ziad Youssfi
 
 navbar-links:
   About Me: "aboutme"
-  Courses:
+  Course Pages:
     - Mbed DL: "/mbed_dl/mbed_dl"
     - Auto Robo: "/auto_robo/auto_robo"
   Student Projects:

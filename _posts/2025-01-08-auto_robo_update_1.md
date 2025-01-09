@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autonomous Robotics 1, Second Offering
-subtitle: Onward and Foward... 
+subtitle: Onward and Upward... 
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/robot_showing_scotty.jpg
@@ -19,4 +19,4 @@ I am still developing the course and making changes, which will continue for the
 * Create the teaching kit to replace the current NVIDIA Robotics Teaching Kit.  
 * Integrate the [SMACC2 library](https://github.com/robosoft-ai/SMACC2) for creating behavioral state machines.
 
-_Onward and forward!_ 
+_Onward and Upward!_ 
