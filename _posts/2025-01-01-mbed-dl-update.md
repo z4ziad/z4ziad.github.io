@@ -11,7 +11,7 @@ mathjax: true
 author: Ziad Youssfi
 ---
 
-Fall 2024 was the third time I offered my [Embedded Deep Learning course](/mbed_dl/mbed_dl), and I was happy with how it turned out, especially with [students’ projects][student projects]. This time, we increased the cap on enrollment, so there were more projects than previously. Many students opted for motion classification projects involving health, sports, or fitness. Some projects involved multi-modal classification, such as audio plus image classification. There were also several projects involving image classification or object detection, but these projects are fewer due to the challenge of running vision models on edge devices with limited memory and computation.  
+Fall 2024 was the third time I offered my [Embedded Deep Learning course](/mbed_dl/mbed_dl), and I was happy with how it turned out, especially with [students’ projects](/mbed_dl/projects_f24). This time, we increased the cap on enrollment, so there were more projects than previously. Many students opted for motion classification projects involving health, sports, or fitness. Some projects involved multi-modal classification, such as audio plus image classification. There were also several projects involving image classification or object detection, but these projects are fewer due to the challenge of running vision models on edge devices with limited memory and computation.  
 
 As students worked hard on their projects, some challenges remained:  
 * **Data collection in the wild:** Microcontrollers don’t have much memory to hold large amounts of data, so students must send data wirelessly or save it in a secondary storage system such as a microSD card. However, a Wi-Fi connection may not be feasible in the wild, and BLE has limited bandwidth and timing issues. Also, small and light microcontroller boards for wearable applications don’t have microSD card support by default, so students must hack out their solutions!  
@@ -20,6 +20,7 @@ As students worked hard on their projects, some challenges remained:
 
 Finally, a shoutout to Edge Impulse and the Arduino ML Kit; Their tools makes it much easier to run this course and more efficient for students to iterate the ML development process.  
 
-[**Please check out the student projects for Fall 2024!**][student projects]
+[**Please check out the student projects for Fall 2024!**](/mbed_dl/projects_f24)
 
-[student projects]: /mbed_dl/projects_f24
+<p align="center"> <img src="/assets/img/chip_playing_tennis_4.jpg" width="60%" height="60%"> </p>
+
