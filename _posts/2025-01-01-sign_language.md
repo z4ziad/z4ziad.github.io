@@ -1,7 +1,7 @@
 ---
 layout: post
 title: American Sign Language Fingerspelling Interpreter
-subtitle: Translate sign language to characters and words!
+subtitle: Translate sign language to characters and words.
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/sign_language_f24.jpg

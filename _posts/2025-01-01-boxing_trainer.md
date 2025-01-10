@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Virtual Boxing Trainer
-subtitle: Use it to learn to throw a Punch, a Hook, an Upper, or a Block!
+subtitle: Use it to learn to throw a punch, a hook, an upper, or a block.
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/boxing_trainer_f24.jpg

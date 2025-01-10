@@ -21,13 +21,14 @@ author: Ziad Youssfi
 
 navbar-links:
   About Me: "aboutme"
-  Course Pages:
+  Courses:
     - Mbed DL: "/mbed_dl/mbed_dl"
     - Auto Robo: "/auto_robo/auto_robo"
   Student Projects:
     - Mbed DL, Spring 23: "/mbed_dl/projects_s23"
     - Mbed DL, Fall 23: "/mbed_dl/projects_f23"
     - Mbed DL, Fall 24: "/mbed_dl/projects_f24"
+  My Blog: "/index.html"
 
 ################
 # --- Logo --- #

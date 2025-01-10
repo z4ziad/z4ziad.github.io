@@ -9,7 +9,7 @@ This course combines machine learning and robotics in a hands-on approach that e
 
 ## Why I Created this Course
 ---
-I have always wanted to create a course to engage students with robotics on a scale that fits in one room or at a tabletop. Seeing the progress made at NVIDIA with their [IsaacROS library](https://github.com/NVIDIA-ISAAC-ROS) and the [Jetson platform](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/), I realized that a tiny robot can now execute smart tasks just as well as its bigger and older ancestors could. 
+I have always wanted to create a course to engage students with robotics on a scale that fits in one room or at a tabletop. This allows many more students to innovate quickly in a hands-on classroom environment. Seeing the progress made at NVIDIA with their [IsaacROS library](https://github.com/NVIDIA-ISAAC-ROS) and the [Jetson platform](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/), I realized that a tiny robot can now execute smart tasks just as well as its bigger and older ancestors could. 
 
 An essential aspect of this course is allowing students to learn about integrating machine learning and autonomy in the physical world. Like the [Embedded Deep Learning course](/mbed_dl/mbed_dl), this course is not just about machine learning models running in the cloud but also about how these models perform on robots in the real world _when the rubber hits the road!_ 
                      

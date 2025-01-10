@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deer Detection
-subtitle: Helps you avoid deer on the road!
+subtitle: Helps you avoid deer on the road.
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 thumbnail-img: /assets/img/deer_detection_f24.jpg
