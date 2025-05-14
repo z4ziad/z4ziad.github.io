@@ -31,6 +31,6 @@ I had taught this course [once before](/2025-01-08-auto_robo_update_1), but modi
 
 <p align="center"> <img src="/assets/img/IMG_1916.jpg" width="70%" height="70%"> </p>
 <p align="center"> <img src="/assets/img/IMG_1918.jpg" width="70%" height="70%"> </p>
-<p align="center"> <img src="/assets/img/IMG_1926.jpg" width="70%" height="70%"> </p>
+<p align="center"> <img src="/assets/img/IMG_1926-1.jpg" width="70%" height="70%"> </p>
 <p align="center"> <img src="/assets/img/IMG_1931.jpg" width="250"> 
 <img src="/assets/img/IMG_1930.jpg" width="250"> </p> 
