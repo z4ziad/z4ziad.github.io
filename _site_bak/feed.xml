@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Ziad Youssfi</title>
+    
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Autonomous Robotics I, Spring 2025, Semester Update</title>
+        <description>
+          Which object do you want me to track? - 
+          Well, we did it! At least, we achieved most of the objectives we set out to accomplish in Autonomous Robotics I. We faced significant logistical challenges, such as the robot base being delivered late in the semester and the Jetson Orin Nano robotics computer infamously being unavailable for purchase after...
+        </description>
+        <pubDate>Tue, 13 May 2025 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2025-05-13-auto_robo_update_2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-05-13-auto_robo_update_2/</guid>
+      </item>
+    
+      <item>
+        <title>Autonomous Robotics I, Second Offering</title>
+        <description>
+          Onward and Upward... - 
+          I am excited to offer Autonomous Robotics 1 for the second time this Spring, 2025. When I first offered it in Spring 2024, it was fun and fulfilling for the students to come in with no background in machine learning or robotics and, by the end of the semester, build...
+        </description>
+        <pubDate>Wed, 08 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-08-auto_robo_update_1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-08-auto_robo_update_1/</guid>
+      </item>
+    
+      <item>
+        <title>Weather Prediction Using tinyML</title>
+        <description>
+          No Wi-Fi or cell connection, no problem. This weather station can forecast the clouds without the “cloud”! - 
+          This project aims to develop a cost-effective weather forecasting system using the Arduino Nano 33 BLE Sense. By utilizing Tiny Machine Learning (TinyML), our model can run efficiently on constrained hardware, enabling real-time weather predictions without internet connectivity. This system can be particularly relevant for users in resource-limited areas (including...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-weather_station/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-weather_station/</guid>
+      </item>
+    
+      <item>
+        <title>Tiny Tennis</title>
+        <description>
+          How good is your swing? - 
+          Tiny Tennis Coach is a wearable device strapped to a player’s wrist that can analyze a player’s swing and provide targeted feedback to help improve a player’s form. Inspired by our own experiences playing tennis, we aimed to create a convenient and real-time learning aid for beginners to get feedback...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-tiny_tennis/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-tiny_tennis/</guid>
+      </item>
+    
+      <item>
+        <title>Smart Door Lock</title>
+        <description>
+          Unlock a door just like you unlock your iPhone-- by looking at it! - 
+          This project presents a smart door lock system integrating face and voice recognition to enhance security and accessibility in home or office environments. The system leverages two microcontroller boards: Arduino Nicla for face detection using MobileNetv1 and Arduino Nano 33 for audio detection. Both models are trained and deployed through...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-smart_door_lock/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-smart_door_lock/</guid>
+      </item>
+    
+      <item>
+        <title>Smart Alarm Clock with Voice Control and Motion Recognition</title>
+        <description>
+          It won&apos;t stop until you get out of bed! - 
+          We present a smart alarm clock that uses embedded hardware and onboard inference to recognize voice commands and detect wakeful motion before disabling. The system runs compact models on a low-power platform and remains active until it confirms full wakefulness through spoken or physical cues. Get the complete PDF report....
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-smart_alarm/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-smart_alarm/</guid>
+      </item>
+    
+      <item>
+        <title>American Sign Language Fingerspelling Interpreter</title>
+        <description>
+          Translate sign language to characters and words. - 
+          American Sign Language (ASL) is the preferred language for many amongst the deaf and hard of hearing communities. Fingerspelling is a part of ASL which assigns a sign to each letter of the English alphabet and is used for proper names or when signs for words are not known. Since...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-sign_language/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-sign_language/</guid>
+      </item>
+    
+      <item>
+        <title>The Wrap on My Embedded Deep Learning Course for Fall 24</title>
+        <description>
+          More Projects, New Projects! - 
+          Fall 2024 was the third time I offered my Embedded Deep Learning course, and I was happy with how it turned out, especially with students’ projects. This time, we increased the cap on enrollment, so there were more projects than previously. Many students opted for motion classification projects involving health,...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-mbed-dl-update/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-mbed-dl-update/</guid>
+      </item>
+    
+      <item>
+        <title>Gestures Detection with Oximeter</title>
+        <description>
+          If the Apple Watch can do it, so can we! - 
+          This project aims to replicate the Apple Watch double-tap feature using on-device machine learning with an Arduino Nano BLE Sense 33. The device leverages its built-in accelerometer, gyroscope, and an externally attached MAX30102 oximeter sensor 1 to detect gestures such as double-tap, clench, and rotate. The hardware is housed in...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-gestures_oximeter/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-gestures_oximeter/</guid>
+      </item>
+    
+      <item>
+        <title>Deer Detection</title>
+        <description>
+          Helps you avoid deer on the road. - 
+          The goal of this project is to design a real-time deer detection system for vehicles using embedded technology. We use sensor fusion (thermal imaging, TOF sensors) and onboard processing to catch deer near the road and warn drivers faster than they can react. If the system catches a deer, it...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-deer_detection/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-deer_detection/</guid>
+      </item>
+    
+      <item>
+        <title>Virtual Boxing Trainer</title>
+        <description>
+          Use it to learn to throw a punch, a hook, an upper, or a block. - 
+          The Virtual Boxing Trainer project aims to revolutionize boxing training by integrating wearable technology with intelligent data analysis. Using Arduino Nano BLE 33 boards equipped with inertial measurement units (IMUs), this system records, classifies, and analyzes boxing moves, delivering an interactive and engaging training experience for users. Designed for fitness...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-boxing_trainer/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-boxing_trainer/</guid>
+      </item>
+    
+      <item>
+        <title>Baseball Simulator</title>
+        <description>
+          Can you hit a home-run? - 
+          Our project implements a real-time baseball detection and scoring system using YOLOv8 for object detection and Bluetooth Low Energy (BLE) for external device communication. The system integrates a webcam to capture live video frames, processes them with a pre-trained YOLOv8m model to detect baseballs, and overlays detection results with bounding...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-baseball_sim/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-baseball_sim/</guid>
+      </item>
+    
+      <item>
+        <title>AirDrums</title>
+        <description>
+          Use your bare hands to drum away if you can’t have a drum set! - 
+          AirDrums: a virtual drum set powered by deep learning. AirDrums packages an entire drumset into just a wristband with built-in sensors. By wearing the wristband and making the motions of hitting a drum set with a drumstick, we can use deep learning to identify the motion made and which drum...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-air_drums/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-air_drums/</guid>
+      </item>
+    
+      <item>
+        <title>PocketPro</title>
+        <description>
+          Are you a beginner, intermediate, or advanced-level ping-pong player? You can find out by wearing it, and you can also get feedback. - 
+          Self-learning anything can be challenging. Our device, the PocketPro, is an embedded device that can be attached to a glove to allow table tennis enthusiasts and beginners to conveniently train their technique in practice by utilizing motion classification to classify and compare a user’s actions with professional data. The PocketPro...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-Pocket_Pro/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-Pocket_Pro/</guid>
+      </item>
+    
+      <item>
+        <title>DuoGuard: Advanced Elderly Care Fall Detection System</title>
+        <description>
+          Not every fall is the same, and some falls are more critical than others. This wearable can distinguish them and raise an appropriate alarm. - 
+          DuoGuard represents a significant advancement in elderly care monitoring systems, combining audio and motion detection through a dual-board TinyML implementation. This paper presents a comprehensive overview of our system, which achieves 90% detection accuracy while maintaining strict privacy standards through on-device processing. The solution addresses the critical need for non-...
+        </description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-01-01-Elderly_Care/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-01-Elderly_Care/</guid>
+      </item>
+    
+      <item>
+        <title>Workout Tracker</title>
+        <description>
+          Saral Tayal , David Cooper , and Tianhao Ye - 
+          Our project aimed to create an exercise-counter wearable based on a 6-axis IMU that would strap on their wrist, like a smartwatch, to count reps of various exercises performed. The motivation behind this was helping individuals at the gym keep track of their progression over time and receive detailed information...
+        </description>
+        <pubDate>Sat, 30 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023-12-30-workout/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-12-30-workout/</guid>
+      </item>
+    
+      <item>
+        <title>Produce Detector</title>
+        <description>
+          Sai Mitheran J., Omar Alama, Abdullah Alaijan - 
+          Our project delivers a machine learning innovation to revolutionize self-checkout systems in the retail sector by introducing YOLOv8 [1] on the Jetson Nano that proficiently identifies and tallies a wide range of produce. This system tackles the challenge of manual entries for unbarcoded items, a notorious bottleneck in retail workflows,...
+        </description>
+        <pubDate>Sat, 30 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023-12-30-produce/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-12-30-produce/</guid>
+      </item>
+    
+      <item>
+        <title>Speech Light Control System</title>
+        <description>
+          Aishwarya Joshi, Iris Dong, and  Sreekesh Devanathan - 
+          Our main goal is to create a system which allows users to control light color and/or brightness through the use of speech commands. The commands would be preceded by a wake word, “nano”, to indicate that a command has been spoken. As for controlling the lights from the arduino, we...
+        </description>
+        <pubDate>Sat, 30 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023-12-30-light_control/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-12-30-light_control/</guid>
+      </item>
+    
+      <item>
+        <title>Parking Detection with TinyML</title>
+        <description>
+          Nathan Litzinger, Saurabh Roychowdhury, and Saumya Bhandarkar - 
+          Paying for parking is still a hassle in 2023. Whether in a garage or on the street, there is no single, low-cost, ubiquitous system that can be deployed everywhere. Therefore, we set out to create a low-cost, automated parking detection system grounded in embedded deep learning. We propose a two-part...
+        </description>
+        <pubDate>Sat, 30 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023-12-30-license_plate/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-12-30-license_plate/</guid>
+      </item>
+    
+      <item>
+        <title>Acoustic Emanations by Embedded Device Attack on Keyboard</title>
+        <description>
+          Cheng-De (Jerry) Lin and Tejas Bana - 
+          Deep learning (DL) has been a primary security concern of the data leak. Several studies have reported that laptop keystrokes can be classified by DL and a microphone that records the keystroke acoustics. However, much uncertainty still exists about the practical deployment and cross-device classification. This paper attempts to develop...
+        </description>
+        <pubDate>Sat, 30 Dec 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023-12-30-keyboard/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-12-30-keyboard/</guid>
+      </item>
+    
+  </channel>
+</rss>

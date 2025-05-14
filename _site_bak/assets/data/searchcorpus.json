@@ -1,0 +1,396 @@
+[ 
+ 
+{ 
+"title"    : "Autonomous Robotics I, Spring 2025, Semester Update", 
+"desc"     : "Autonomous Robotics I, Spring 2025, Semester Update", 
+"category" : "main_update", 
+"url"      : "/2025-05-13-auto_robo_update_2/", 
+"date"     : "May 13, 2025" 
+}, 
+ 
+{ 
+"title"    : "Autonomous Robotics I, Second Offering", 
+"desc"     : "Autonomous Robotics I, Second Offering", 
+"category" : "main_update", 
+"url"      : "/2025-01-08-auto_robo_update_1/", 
+"date"     : "January  8, 2025" 
+}, 
+ 
+{ 
+"title"    : "Weather Prediction Using tinyML", 
+"desc"     : "Weather Prediction Using tinyML", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-weather_station/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "Tiny Tennis", 
+"desc"     : "Tiny Tennis", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-tiny_tennis/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "Smart Door Lock", 
+"desc"     : "Smart Door Lock", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-smart_door_lock/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "Smart Alarm Clock with Voice Control and Motion Recognition", 
+"desc"     : "Smart Alarm Clock with Voice Control and Motion Recognition", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-smart_alarm/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "American Sign Language Fingerspelling Interpreter", 
+"desc"     : "American Sign Language Fingerspelling Interpreter", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-sign_language/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "The Wrap on My Embedded Deep Learning Course for Fall 24", 
+"desc"     : "The Wrap on My Embedded Deep Learning Course for Fall 24", 
+"category" : "main_update", 
+"url"      : "/2025-01-01-mbed-dl-update/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "Gestures Detection with Oximeter", 
+"desc"     : "Gestures Detection with Oximeter", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-gestures_oximeter/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "Deer Detection", 
+"desc"     : "Deer Detection", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-deer_detection/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "Virtual Boxing Trainer", 
+"desc"     : "Virtual Boxing Trainer", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-boxing_trainer/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "Baseball Simulator", 
+"desc"     : "Baseball Simulator", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-baseball_sim/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "AirDrums", 
+"desc"     : "AirDrums", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-air_drums/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "PocketPro", 
+"desc"     : "PocketPro", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-Pocket_Pro/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "DuoGuard: Advanced Elderly Care Fall Detection System", 
+"desc"     : "DuoGuard: Advanced Elderly Care Fall Detection System", 
+"category" : "projects_fall_24", 
+"url"      : "/2025-01-01-Elderly_Care/", 
+"date"     : "January  1, 2025" 
+}, 
+ 
+{ 
+"title"    : "Workout Tracker", 
+"desc"     : "Workout Tracker", 
+"category" : "fall_23", 
+"url"      : "/2023-12-30-workout/", 
+"date"     : "December 30, 2023" 
+}, 
+ 
+{ 
+"title"    : "Produce Detector", 
+"desc"     : "Produce Detector", 
+"category" : "fall_23", 
+"url"      : "/2023-12-30-produce/", 
+"date"     : "December 30, 2023" 
+}, 
+ 
+{ 
+"title"    : "Speech Light Control System", 
+"desc"     : "Speech Light Control System", 
+"category" : "fall_23", 
+"url"      : "/2023-12-30-light_control/", 
+"date"     : "December 30, 2023" 
+}, 
+ 
+{ 
+"title"    : "Parking Detection with TinyML", 
+"desc"     : "Parking Detection with TinyML", 
+"category" : "fall_23", 
+"url"      : "/2023-12-30-license_plate/", 
+"date"     : "December 30, 2023" 
+}, 
+ 
+{ 
+"title"    : "Acoustic Emanations by Embedded Device Attack on Keyboard", 
+"desc"     : "Acoustic Emanations by Embedded Device Attack on Keyboard", 
+"category" : "fall_23", 
+"url"      : "/2023-12-30-keyboard/", 
+"date"     : "December 30, 2023" 
+}, 
+ 
+{ 
+"title"    : "Realtime Person Identification via Gait Analysis", 
+"desc"     : "Realtime Person Identification via Gait Analysis", 
+"category" : "fall_23", 
+"url"      : "/2023-12-30-gait/", 
+"date"     : "December 30, 2023" 
+}, 
+ 
+{ 
+"title"    : "Sound Classification for Semiterrestrial Crabs", 
+"desc"     : "Sound Classification for Semiterrestrial Crabs", 
+"category" : "fall_23", 
+"url"      : "/2023-12-30-crab/", 
+"date"     : "December 30, 2023" 
+}, 
+ 
+{ 
+"title"    : "WHERE--Wrist-based HAR (Human Activity Recognition) with Embedded Real-time Equipment", 
+"desc"     : "WHERE--Wrist-based HAR (Human Activity Recognition) with Embedded Real-time Equipment", 
+"category" : "spring_23", 
+"url"      : "/2023-05-10-where/", 
+"date"     : "May 10, 2023" 
+}, 
+ 
+{ 
+"title"    : "Sound-Based Trash Categorization (SBTrashCat)", 
+"desc"     : "Sound-Based Trash Categorization (SBTrashCat)", 
+"category" : "spring_23", 
+"url"      : "/2023-05-10-trash-categorization/", 
+"date"     : "May 10, 2023" 
+}, 
+ 
+{ 
+"title"    : "Multinode Embedded Deep Learning", 
+"desc"     : "Multinode Embedded Deep Learning", 
+"category" : "spring_23", 
+"url"      : "/2023-05-10-multi-node/", 
+"date"     : "May 10, 2023" 
+}, 
+ 
+{ 
+"title"    : "Motor Care - Condition Based Monitoring", 
+"desc"     : "Motor Care - Condition Based Monitoring", 
+"category" : "spring_23", 
+"url"      : "/2023-05-10-motor-care/", 
+"date"     : "May 10, 2023" 
+}, 
+ 
+{ 
+"title"    : "Inventory Management on Edge (Empty Shelf Percentage Estimator)", 
+"desc"     : "Inventory Management on Edge (Empty Shelf Percentage Estimator)", 
+"category" : "spring_23", 
+"url"      : "/2023-05-10-inventory-management/", 
+"date"     : "May 10, 2023" 
+}, 
+ 
+{ 
+"title"    : "Feel the Vibe (Emotion Recognition)", 
+"desc"     : "Feel the Vibe (Emotion Recognition)", 
+"category" : "spring_23", 
+"url"      : "/2023-05-10-feel-the-vibe/", 
+"date"     : "May 10, 2023" 
+}, 
+ 
+{ 
+"title"    : "Dog Fitbit", 
+"desc"     : "Dog Fitbit", 
+"category" : "spring_23", 
+"url"      : "/2023-05-10-dog-fitbit/", 
+"date"     : "May 10, 2023" 
+}, 
+ 
+{ 
+"title"    : "Crosswalk Aid", 
+"desc"     : "Crosswalk Aid", 
+"category" : "spring_23", 
+"url"      : "/2023-05-10-cross-walk-aid/", 
+"date"     : "May 10, 2023" 
+}, 
+ 
+{ 
+"title"    : "Bird Feeder", 
+"desc"     : "Bird Feeder", 
+"category" : "spring_23", 
+"url"      : "/2023-05-10-bird_feeder/", 
+"date"     : "May 10, 2023" 
+}, 
+ 
+{ 
+"title"    : "Athletech", 
+"desc"     : "Athletech", 
+"category" : "spring_23", 
+"url"      : "/2023-05-10-athlete_tech/", 
+"date"     : "May 10, 2023" 
+}, 
+ 
+{ 
+"title"    : "Sample blog post to learn markdown tips", 
+"desc"     : "Sample blog post to learn markdown tips", 
+"category" : "test", 
+"url"      : "/2020-02-28-sample-markdown/", 
+"date"     : "February 28, 2020" 
+}, 
+ 
+{ 
+"title"    : "Flake it till you make it", 
+"desc"     : "Flake it till you make it", 
+"category" : "books, test", 
+"url"      : "/2020-02-26-flake-it-till-you-make-it/", 
+"date"     : "February 26, 2020" 
+}, 
+ 
+ 
+{ 
+"title"    : "About Me", 
+"desc"     : "About Me", 
+"category" : "page", 
+"url"      : "/aboutme/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Autonomous Robotics 1", 
+"desc"     : "Autonomous Robotics 1", 
+"category" : "page", 
+"url"      : "/auto_robo/auto_robo/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Autonomous Robotics Final Demo Video Snippets", 
+"desc"     : "Autonomous Robotics Final Demo Video Snippets", 
+"category" : "page", 
+"url"      : "/auto_robo/auto_robo_demo_S25/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Welcome to My Site", 
+"desc"     : "Welcome to My Site", 
+"category" : "page", 
+"url"      : "/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Embedded Deep Learning", 
+"desc"     : "Embedded Deep Learning", 
+"category" : "page", 
+"url"      : "/mbed_dl/mbed_dl/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Projects Fall 2023", 
+"desc"     : "Projects Fall 2023", 
+"category" : "page", 
+"url"      : "/mbed_dl/projects_f23/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Projects, Fall 24", 
+"desc"     : "Projects, Fall 24", 
+"category" : "page", 
+"url"      : "/mbed_dl/projects_f24/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Projects Spring 2023", 
+"desc"     : "Projects Spring 2023", 
+"category" : "page", 
+"url"      : "/mbed_dl/projects_s23/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Tag Index", 
+"desc"     : "Tag Index", 
+"category" : "page", 
+"url"      : "/tags/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Welcome to My Site", 
+"desc"     : "Welcome to My Site", 
+"category" : "page", 
+"url"      : "/page2/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Welcome to My Site", 
+"desc"     : "Welcome to My Site", 
+"category" : "page", 
+"url"      : "/page3/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Welcome to My Site", 
+"desc"     : "Welcome to My Site", 
+"category" : "page", 
+"url"      : "/page4/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Welcome to My Site", 
+"desc"     : "Welcome to My Site", 
+"category" : "page", 
+"url"      : "/page5/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Welcome to My Site", 
+"desc"     : "Welcome to My Site", 
+"category" : "page", 
+"url"      : "/page6/", 
+"date"     : "January 1, 1970" 
+}, 
+ 
+{ 
+"title"    : "Welcome to My Site", 
+"desc"     : "Welcome to My Site", 
+"category" : "page", 
+"url"      : "/page7/", 
+"date"     : "January 1, 1970" 
+} 
+ 
+]

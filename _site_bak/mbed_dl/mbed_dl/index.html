@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 6.0.1 | Copyright Dean Attali 2023 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  
+
+  <title>Embedded Deep Learning | Ziad Youssfi</title>
+
+  
+  
+  <meta name="author" content="Ziad Youssfi">
+  
+
+  <meta name="description" content="ECE, Carnegie Mellon University">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="Ziad Youssfi">
+  <meta property="og:title" content="Embedded Deep Learning | Ziad Youssfi">
+  <meta property="og:description" content="ECE, Carnegie Mellon University">
+
+  
+  <meta property="og:image" content="http://localhost:4000/assets/img/Me_avatar_2.jpeg">
+  
+
+  
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="http://localhost:4000/mbed_dl/mbed_dl/">
+  <link rel="canonical" href="http://localhost:4000/mbed_dl/mbed_dl/">
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  
+  <meta name="twitter:site" content="@">
+  <meta name="twitter:creator" content="@">
+
+  <meta property="twitter:title" content="Embedded Deep Learning | Ziad Youssfi">
+  <meta property="twitter:description" content="ECE, Carnegie Mellon University">
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/Me_avatar_2.jpeg">
+  
+
+  
+
+
+  
+
+  
+  
+
+  
+
+</head>
+
+
+<body>
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="http://localhost:4000/">Ziad Youssfi</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/aboutme">About Me</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Courses</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/mbed_dl/mbed_dl">Mbed DL</a>
+                  <a class="dropdown-item" href="/auto_robo/auto_robo">Auto Robo</a>
+            </div>
+          </li>
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Student Projects</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/mbed_dl/projects_s23">Mbed DL, Spring 23</a>
+                  <a class="dropdown-item" href="/mbed_dl/projects_f23">Mbed DL, Fall 23</a>
+                  <a class="dropdown-item" href="/mbed_dl/projects_f24">Mbed DL, Fall 24</a>
+            </div>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/index.html">My Blog</a>
+          </li>
+        <li class="nav-item">
+          <a class="nav-link" id="nav-search-link" href="#" title="Search">
+            <span id="nav-search-icon" class="fa fa-search"></span>
+            <span id="nav-search-text">Search</span>
+          </a>
+        </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="http://localhost:4000/">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/Me_avatar_2.jpeg" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+
+<div id="beautifuljekyll-search-overlay">
+
+  <div id="nav-search-exit" title="Exit search">✕</div>
+  <input type="text" id="nav-search-input" placeholder="Search">
+  <ul id="search-results-container"></ul>
+  
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  <script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('nav-search-input'),
+      resultsContainer: document.getElementById('search-results-container'),
+      json: '/assets/data/searchcorpus.json' 
+    });
+  </script>
+</div>
+
+
+
+
+
+  
+
+
+
+<header class="header-section ">
+<div class="intro-header ">
+  
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="page-heading">
+          <h1>Embedded Deep Learning</h1>
+          
+            
+              <hr class="small">
+              <span class="page-subheading">ECE, Carnegie Mellon University</span>
+            
+          
+          
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+</div>
+
+
+
+</header>
+
+
+<main class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+      
+
+      <h2 id="course-description">Course Description</h2>
+<hr />
+<p>Embedded or “edge” devices with sensors generate a tremendous amount of data every second. 
+Sending these data to the cloud for intelligent decision making by machine learning models 
+consumes energy and imposes undesired latency and cost. Processing the data locally on the 
+edge lowers latency, energy, and cost. This course introduces deep neural network architectures,
+such as dense, convolutional, and recurrent networks, and their respective applications and 
+training in the cloud. Students then learn to downsize their trained models so they can deploy 
+them for inferencing on microcontrollers running on the edge with power and computation constraints. 
+Students are encouraged to create their own projects drawing from such fields as agriculture, 
+environment, conservation, health, manufacturing, or home automation. Students are expected to have 
+embedded systems knowledge equivalent to 18-349 (Introduction to Embedded Systems). This course has 
+been offered as a special topic but it will be given a permanent course number soon.</p>
+
+<h2 id="why-i-created-this-course">Why I Created this Course</h2>
+<hr />
+<p>Inspired by the work done at <a href="https://edgeimpulse.com">Edge Impulse</a> and Google for <a href="https://ai.google.dev/edge/litert">TensorFlow Lite (now LiteRT)</a> and <a href="https://ai.google.dev/edge/litert/microcontrollers/overview">TensorFlow Micro (now LiteRT for Microcontorllers)</a> to make machine learning models smaller, I created the Embedded Deep Learning course. But honestly, the real inspiration came from watching the story about the <a href="https://youtu.be/ci95eyvTyXo">Elephant Edge project</a>, which was done in collaboration with <a href="https://www.hackster.io">Hackster.io</a>. Developing machine learning models that can run on low-power microcontrollers opens up a whole new class of opportunities to improve our physical world.</p>
+
+<p>One aspect of this course I like is that students must collect and clean their data, which is integral to machine learning development. Unfortunately, many machine learning courses often focus on developing models in the cloud, where datasets have already been created and handed to them. Moreover, as is usually the case in embedded machine learning, synthetic data generation is impossible because of non-existent generative models.</p>
+
+<p>Another aspect of the course I like is that students see their machine-learning models working in the real, physical world rather than just getting theoretical accuracy figures in the cloud.</p>
+
+<h2 id="topics">Topics</h2>
+<hr />
+<ul>
+  <li>Motivation for TinyML or Embedded Machine Learning and its applications</li>
+  <li>Fundamental of Deep Neural Networks for dense and convolutional architectures</li>
+  <li>Machine learning pipeline for embedded systems
+    <ul>
+      <li>Data collection, preprocessing, and data engineering</li>
+      <li>Designing and training a model</li>
+      <li>Model conversion concepts for embedded and mobile devices:<br />
+ post training and training aware quantization</li>
+      <li>Model deployment to embedded systems</li>
+    </ul>
+  </li>
+  <li>Real-time embedded systems optimization</li>
+  <li>Ethics of ML and embedded ML</li>
+  <li>Applications of machine learning pipeline to the following domains:
+    <ul>
+      <li>Motion detection using an IMU (inertial management unit) sensor</li>
+      <li>Audio classification using a microphone sensor</li>
+      <li>Computer vision using a camera sensor</li>
+      <li>Anomaly detection using a combination of sensors</li>
+    </ul>
+  </li>
+  <li>Object detection models such as YOLO v1-8</li>
+  <li>Sensor fusion (if time permits)</li>
+</ul>
+
+<h2 id="assignments">Assignments</h2>
+<ol>
+  <li>Concepts and motivations for TinyML</li>
+  <li>Building shallow neural networks with Python and Jupiter Notebook/Google Colab</li>
+  <li>TensorFlow, the Gradient and building deep neural networks</li>
+  <li>Gesture recogntion part 1: data collection</li>
+  <li>Gesture recogntion part 2: Building and doploying a model on the Arduino Nano 33 BLE sense</li>
+  <li>Speech command part 1: data collection for wakeup keywords</li>
+  <li>Speech command part 2: Building and deploying a model on the Arduino Nano 33 BLE sense</li>
+  <li>Object detection part 1: data collection using smartphone camera or the OV7675 camera</li>
+  <li>Object detection part 2: Building and deploying a model to Arduino Nano 33 BLE sense or smartphone.<br />
+(Assginment 8 &amp; 9 are subject to time availability in the semester)</li>
+</ol>
+
+<h2 id="projects">Projects</h2>
+<hr />
+<p>This course engages students with group driven projects and presentations <br />
+<a href="/mbed_dl/projects_s23">Please visit the project summary listing for Spring 2023</a><br />
+<a href="/mbed_dl/projects_f23">Please visit the project summary listing for Fall 2023</a><br />
+<a href="/mbed_dl/projects_f24">Please visit the project summary listing for Fall 2024</a></p>
+
+<h4 id="acknowledgment">Acknowledgment</h4>
+<hr />
+<p><strong>We acknowledge Edge Impuluse for their donations of Arduino Nano 33 BLE ML kits and the free access to their Design Studio</strong><br />
+<img src="/assets/img/edge_impulse_1.jpg" width="35%" height="35%" /></p>
+
+
+
+      
+
+      
+
+    </div>
+  </div>
+</main>
+
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      
+<ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="mailto:ziad.youssfi@gmail.com" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://github.com/z4ziad" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://linkedin.com/in/ziadyoussfi" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li></ul>
+
+
+      
+      <p class="copyright text-muted">
+      
+        Ziad Youssfi
+        &nbsp;&bull;&nbsp;
+      
+      2025
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="http://localhost:4000/">z4ziad.github.io</a>
+        </span>
+      
+
+      
+
+      
+
+      </p>
+      <p class="theme-by text-muted">
+        Powered by
+        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+</body>
+</html>

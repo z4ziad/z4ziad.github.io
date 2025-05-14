@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autonomous Robotics 1, Second Offering
+title: Autonomous Robotics I, Second Offering
 subtitle: Onward and Upward... 
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
