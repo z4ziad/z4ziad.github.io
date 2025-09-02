@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Embedded Deep Learning 
+title: Embedded Machine Learning 
 subtitle: ECE, Carnegie Mellon University
 ---
 ## Course Description  

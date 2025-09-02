@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous Robotics 1 
+title: Autonomous Robotics I
 subtitle: ECE 18-442/18-842, Carnegie Mellon University
 ---
 ## Course Description  
@@ -45,4 +45,5 @@ An essential aspect of this course is allowing students to learn about integrati
 
 ## Sudents Projects
 ---
-* Coming soon...
+* [Spring 2025](http://z4ziad.github.io/auto_robo/auto_robo_demo_S25)
+
