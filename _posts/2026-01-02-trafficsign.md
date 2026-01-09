@@ -16,6 +16,8 @@ challenges in detecting and responding to stop signs in a timely manner. This ex
 awareness and improve road safety.  
 
 The red light on top of the car indicates approaching the stop sign too fast.
-<p align="center"> <img src="/assets/img/embed_ml/f25/trafficsign/traffic_sign.gif" width="90%" height="90%"> </p>     
+<video controls width="720">
+    <source src="/assets/img/embed_ml/f25/trafficsign/traffic_sign.mp4" type="video/mp4">
+</video>     
 [Get the complete PDF report.](/assets/img/embed_ml/f25/trafficsign/trafficsignalarm_LATE_113257_13710409_18-844_Final_Presentation.pdf)
 
