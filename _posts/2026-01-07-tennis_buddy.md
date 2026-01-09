@@ -19,7 +19,7 @@ Tennis Buddy can:
  
 This video shows object detection, obstacle avoidance, and navigation to waypoints.
 <video controls width="720">
-    <source src="/assets/video/f25/autorobo_II/tennis_buddy.mp4" type="video/mp4">
+    <source src="/assets/video/tennis_buddy.mp4" type="video/mp4">
 </video>
 <p align="center"> <img src="/assets/img/auto_robo/f25/tennis_buddy/IMG_2638.jpg" width="60%" 
 height="60%"> </p>. 
