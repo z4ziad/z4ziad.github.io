@@ -29,7 +29,8 @@ navbar-links:
     - Embedded ML, Spring 23: "/mbed_dl/projects_s23"
     - Embedded ML, Fall 23: "/mbed_dl/projects_f23"
     - Embedded ML, Fall 24: "/mbed_dl/projects_f24"
-    - Autonomous Robotics, Spring 25: "/auto_robo/auto_robo_demo_S25"
+    - Embedded ML, Fall 25: "/mbed_dl/projects_f25"
+    - Autonomous Robotics I, Spring 25: "/auto_robo/auto_robo_demo_S25"
   My Blog: "/index.html"
 
 ################
